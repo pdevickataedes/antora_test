@@ -17,15 +17,15 @@ include::config.adoc[]
 
 <<<<
 // 1. Ondersteuning door Aedes
-xref:01_Ondersteuning_door_Aedes.adoc[]
+include::chapters/01_Ondersteuning_door_Aedes.adoc[]
 
 <<<<
 // 2. Waarom is dit voor mij?
-include::02_waarom_is_dit_voor_mij.adoc[]
+include::chapters/02_waarom_is_dit_voor_mij.adoc[]
 
 <<<<
 // 3. Routekaart
-include::03_routekaart.adoc[]
+include::chapters/03_routekaart.adoc[]
 
 
 
