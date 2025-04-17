@@ -1,41 +1,6 @@
 = Welcome to my part
 :navtitle: Welcome
 
-
-[mermaid,width=100%]
-....
-
-
-%%{init: {'theme': 'neutral' } }%%
-sequenceDiagram
-  autonumber
-  actor WZ as Woningzoekende
-  participant WRV as WRV-systeem
-  participant MO as MijnOverheid (DigiD, DvMG)
-  participant BSN as BV BSN
-  
-  WRV ->> WZ: Instemming met digitale procedure?
-  WZ ->> WRV: Instemming: Ja
-  WRV ->> MO: Verzoek BSN
-  MO -->> WZ: Verzoek inloggen met DigiD
-  WZ ->> MO: Inloggen met DigiD
-  MO -->> WZ: Delen van BSN ja/nee?
-  alt Instemming BSN Ja
-    WZ ->> MO: Instemming Ja
-    MO -->> WRV: DvMG(BSN)
-    WRV ->> BSN: Zoekpad 2(BSN, geslachtsnaam. geboordtedatum, geslachtsaanduiding)
-    BSN -->> WRV: Validatie lukt(BSN, geslachtsnaam, geboortedatum)
-    WRV -->> WZ: Bevestigen inschrijving?
-    WZ ->> WRV: Akkoord
-    WRV ->> WRV: Has BSN en sla gevalideerde identiteitsgegevns op
-    Note over WRV: Gevalideerdere identiteitsgegevens <br/> (BSN-hash, geslachtsnaam, geboortedatum)
-  end
-
-
-....
-
-
-
 <<<<
 // 1. Ondersteuning door Aedes
 include::./chapters/01_ondersteuning_door_aedes.adoc[]
