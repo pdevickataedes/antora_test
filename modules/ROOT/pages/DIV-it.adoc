@@ -17,7 +17,7 @@ include::chapters/config.adoc[]
 
 <<<<
 // 1. Ondersteuning door Aedes
-include::./chapters/01_Ondersteuning_door_Aedes.adoc[]
+include::./chapters/01_ondersteuning_door_aedes.adoc[]
 
 <<<<
 // 2. Waarom is dit voor mij?
