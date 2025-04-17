@@ -1,1 +1,3 @@
+= Document Title (Level 0)
+
 This is *strong*
