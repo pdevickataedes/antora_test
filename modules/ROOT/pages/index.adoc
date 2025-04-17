@@ -2,8 +2,10 @@
 :navtitle: Welcome
 
 
+[mermaid,width=100%]
+....
 
-```mermaid
+
 %%{init: {'theme': 'neutral' } }%%
 sequenceDiagram
   autonumber
@@ -30,7 +32,7 @@ sequenceDiagram
   end
 
 
-```
+....
 
 
 
