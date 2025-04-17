@@ -7,7 +7,7 @@ include::chapters/config.adoc[]
 
 :jbake-menu: -
 
-= image:DIV-it-logo.png[]Standaard voor digitale inkomensverklaring
+//= image:DIV-it-logo.png[]Standaard voor digitale inkomensverklaring
 :author: Aedes Datastandaarden
 :revnumber: x.y.z
 :revdate: maart 2025
