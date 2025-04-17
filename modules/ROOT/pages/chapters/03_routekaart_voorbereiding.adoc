@@ -11,7 +11,7 @@ In de praktijk komen er verschillende samenwerkingsvarianten tussen corporaties 
 ....
 
 graph LR
-  A[Representeer je een woningcorporatie?] --> |Ja| B[Representeer je een corporatie die samenwerkt voor woonruimteverdeling?];
+  A[Representeer je een <br/> woningcorporatie?] --> |Ja| B[Representeer je een corporatie die samenwerkt voor woonruimteverdeling?];
   A --> |Nee| C[Representeer je een samenwerkingsverband van corporaties met woonruimteverdeling also doel?];
 
   B --->|Nee| RouteA[Route A - zelfstandige corporatie];
