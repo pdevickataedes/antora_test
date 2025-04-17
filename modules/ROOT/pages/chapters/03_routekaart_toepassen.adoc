@@ -25,10 +25,10 @@ Ook hebben we drie onderwerpen nader uitgewerkt:
 * de relatie tussen de gegevens van MijnOverheid en de gegevens benodigd voor de inkomenstoets.
 
 ===== Delen van BSN woningzoekende bij nieuwe inschrijving
-include::../chapters/03_y.adoc[]
+
 
 ===== Delen van BSN woningzoekende bij bestaande inschrijving
-include::../chapters/03_x.adoc[]
+
 
 ===== Delen van BSN woningzoekende bij bestaande inschrijving
 
