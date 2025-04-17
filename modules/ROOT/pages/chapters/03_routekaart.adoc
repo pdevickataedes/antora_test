@@ -18,7 +18,7 @@ Daarnaast zijn er een aantal “check-in”-momenten, wanneer het DIV-it-team gr
 
 *De routekaart*
 [mermaid, width=100%]
-...
+....
 
 flowchart LR
 subgraph Orienteren
