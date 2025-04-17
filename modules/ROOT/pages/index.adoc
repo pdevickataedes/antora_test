@@ -2,4 +2,4 @@
 :navtitle: Welcome
 
 // 1. Ondersteuning door Aedes
-xref:chapters/01_Ondersteuning_door_Aedes.adoc[]
+include::chapters$01_Ondersteuning_door_Aedes.adoc
