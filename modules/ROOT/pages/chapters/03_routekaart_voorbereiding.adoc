@@ -7,7 +7,7 @@ De situatie van jouw organisatie is bepalend voor de route die je volgt bij het 
 In de praktijk komen er verschillende samenwerkingsvarianten tussen corporaties voor bij het woonruimteverdeelproces. Dit kan leiden tot verschillende rollen en bijbehorende acties in de uitrol van de digitale inkomensverklaring. De onderstaande beslisboom helpt om te bepalen welke acties uitgevoerd moeten worden en door wie.
 
 
-[mermaid, width=100%]
+[mermaid]
 ....
 
 graph LR
