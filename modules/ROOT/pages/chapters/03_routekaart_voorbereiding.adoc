@@ -11,11 +11,11 @@ In de praktijk komen er verschillende samenwerkingsvarianten tussen corporaties 
 ....
 
 graph LR
-  A[Representeer je een <br/> woningcorporatie?] --> |Ja| B[Representeer je een corporatie die samenwerkt voor woonruimteverdeling?];
-  A --> |Nee| C[Representeer je een samenwerkingsverband van corporaties met woonruimteverdeling also doel?];
+  A[Representeer je een <br/> woningcorporatie?] --> |Ja| B[Representeer je een <br/>  corporatie die samenwerkt <br/> voor woonruimteverdeling?];
+  A --> |Nee| C[Representeer je een <br/> samenwerkingsverband van corporaties <br/> met woonruimteverdeling also doel?];
 
   B --->|Nee| RouteA[Route A - zelfstandige corporatie];
-  B -->|Ja| D[Is dit samenwerkingsverband een woonruimteverdeler conform de wet?];
+  B -->|Ja| D[Is dit samenwerkingsverband <br /> een woonruimteverdeler conform de wet?];
 
   C -->|Ja| D;
   C --->|Nee| GeenRoute[Het is niet mogelijk om DIV-it te gebruiken];
