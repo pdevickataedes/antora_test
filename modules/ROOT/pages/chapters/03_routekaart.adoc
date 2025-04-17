@@ -29,7 +29,7 @@ De implementatie bestaat uit een aantal delen:
 Daarnaast zijn er een aantal “check-in”-momenten, wanneer het DIV-it-team graag via een formulier van je hoort hoe ver je bent met de implementatie van de digitale inkomensverklaring. Je zal deze check-in momenten vanzelf tegenkomen.
 
 *De routekaart*
-image:Routekaart_V1.drawio.png[routekaart]
+//image:Routekaart_V1.drawio.png[routekaart]
 
 <<<
 // Voorbereiding
