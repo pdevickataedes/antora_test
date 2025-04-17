@@ -17,7 +17,7 @@ include::config.adoc[]
 
 <<<<
 // 1. Ondersteuning door Aedes
-include::01_Ondersteuning_door_Aedes.adoc[]
+xref:01_Ondersteuning_door_Aedes.adoc[]
 
 <<<<
 // 2. Waarom is dit voor mij?
