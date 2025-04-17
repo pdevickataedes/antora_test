@@ -1,0 +1,113 @@
+:jbake-title: Ondersteuning door Aedes
+:jbake-type: page_toc
+:jbake-status: published
+:jbake-menu: Ondersteuning
+:jbake-order: 4
+:filename: \chapters\01_ondersteuning_door_aedes.adoc
+ifndef::imagesdir[:imagesdir: ../../images]
+
+:toc: left
+:toclevels: 6
+
+== Ondersteuning door Aedes
+Welkom! We zijn ontzettend blij dat het vanaf nu mogelijk is om gebruik te maken van de digitale procedure voor het delen van gegevens voor de inschrijving en de inkomenstoets. Dit zal het aanleveren van gegevens voor de inkomenstoets sneller, makkelijker en betrouwbaarder maken. Voor jullie, maar ook voor woningzoekenden.
+
+Wij staan voor een gestandaardiseerde en zorgvuldige implementatie conform de sectorstandaard DIV-it. Deze implementatie vereist een heel aantal stappen, die wij nauwgezet ondersteunen door middel van deze website. Onze ondersteuning bestaat uit de routekaart, achterliggende documentatie en een aantal ondersteunende sessies.
+
+Voor vragen zijn wij bereikbaar tijdens de tweewekelijkse Q&A's en via div@aedes.nl.
+
+***
+=== Ondersteuning
+
+
+=== Known issues & doorontwikkeling
+
+==== Route C - Aanmelden bij de RvIG
+Update 28 februari 2025:
+
+Wij hebben geconstateerd dat, ondanks de inspanningen en goede intenties, het ministerie van VRO en de RvIG op dit moment nog geen concreet perspectief kunnen bieden op een oplossing die het mogelijk maakt dat samenwerkingsverbanden de digitale inkomensverklaring kunnen implementeren. VRO en de RvIG blijven de mogelijkheden verkennen om het probleem op te lossen binnen de regelgeving of met aanpassingen daarvan. En wij blijven ons vanuit Aedes inzetten voor de oorspronkelijke oplossing zodat de hele sector DIV kan gebruiken zoals bedoeld.  
+
+Tegelijkertijd weten we dat we al geruime tijd wachten op een oplossing vanuit de overheidspartijen en dat die tot nu toe uitblijft. Wij vinden het belangrijk dat de digitale inkomensverklaring door alle samenwerkingsverbanden gebruikt kan worden en dat de huidige onzekerheid hierover wordt weggenomen. Wij hebben daarom twee oplossingen onderzocht die ervoor zorgen dat ook informele samenwerkingsverbanden op korte termijn gebruik kunnen maken van de digitale inkomensverklaring. Wij adviseren route C samenwerkingsverbanden die gebruik willen maken van de digitale inkomensverklaring om te kiezen voor een van de twee alternatieve oplossingen.
+
+Update 17 december 2024:
+
+Samenwerkingsverbanden voor woonruimteverdeling die geen rechtspersoonlijkheid hebben (route C) kunnen momenteel geen gebruik maken van de Beheervoorziening BSN (BV BSN) en daardoor kunnen zij de digitale inkomensverklaring niet gebruiken.  
+
+Dit betekent dat bestaande en nieuwe aanmeldingen door deze samenwerkingsverbanden bij het ministerie van Volkshuisvesting en Ruimtelijke Ordening (VRO) niet in behandeling worden genomen. Zie volkshuisvesting.nl. Let op: aanmelden is wel mogelijk voor woonruimteverdelers (route B) en zelfstandige woningcorporaties (route A). 
+
+VRO en de RvIG zijn met elkaar in gesprek om tot een oplossing te komen. Het is echter onduidelijk of dit tijdig tot een werkbare uitkomst leidt.  
+
+Daarom onderzoekt Aedes in samenwerking met de DIV-it adviesgroep welke alternatieven er mogelijk zijn voor corporaties waarop deze situatie van toepassing is.  
+
+Volg je implementatieroute C, lees hier meer.
+
+Heb je vragen? Neem dan contact op met Aedes via div@aedes.nl
+
+Oorspronkelijke bericht 1 juli 2024:
+
+Wij hebben geconstateerd dat samenwerkingsverbanden die geen woonruimteverdeler zijn de aanvraagformulieren voor de BV BSN nog niet kunnen gebruiken. Dit betekent dat corporaties die onderdeel zijn van een samenwerkingsverband zoals bedoeld in implementatieroute C, zich nog niet aan kunnen melden bij de RvIG en daarom de digitale procedure nog niet in gebruik kunnen nemen.
+
+Wij zijn in gesprek met de RvIG over een oplossingsrichting.
+
+Verwachte oplosdatum: zo spoedig mogelijk. Volg je implementatieroute C en sta je op het punt om je aan te melden als gebruiker bij BZK, Logius en de RvIG, neem dan contact op met Aedes via div@aedes.nl
+
+==== Agenda doorontwikkeling van de DIV-it standaard
+
+
+
+=== Team DIV-it
+[options="header",cols="1,2,2"]
+|===
+|Rol/Naam|Contact persoon|Verwachtingen
+| _<Rol-1>_ | _<Contact-1>_ | _<Verwachting-1>_
+| _<Rol-2>_ | _<Contact-2>_ | _<Verwachting-2>_
+|===
+
+=== Gebruik van dit document
+Vind hier een aantal tips en tricks voor het gebruik van deze website. Heb je meer hulp nodig? Mail neem contact op of meld je aan voor een Q&A-sessie.
+
+Delen met collega’s
+Om deze website of een specifieke pagina te delen met je collega’s kun je de url kopiëren of klikken op de link knop:
+Opens image in full screenOpenimage-20240327-132118.png
+
+Exporteren naar PDF
+Je kan een PDF-versie van een of meerdere pagina’s op deze website maken. Dit doe je met de volgende stappen.
+
+Exporteer de pagina:
+
+Klik op de drie puntjes (rechts bovenaan de pagina):
+
+Opens image in full screenOpen
+
+Export
+
+Export to PDF
+
+=== Veranderingslogboek
+Op deze pagina vind je het veranderingslogboek van de DIV-it website. Alle wijzigingen die worden doorgevoerd zijn hieronder in de tabel genoteerd.
+
+In de kolom “Categorie” is te zien om welk type wijziging het gaat:
+
+DIV-it x.x.x - wijzigingen als onderdeel van een nieuwe versie van de standaard.
+
+Redactioneel - wijzigingen om de website beter leesbaar te maken, zoals het herstellen van typfouten.
+
+Ondersteuning - wijzigingen die te maken hebben met de ondersteuning die Aedes aanbiedt, zoals het uploaden van een PowerPoint.
+
+=== DIV-it versiebeheer
+Hier staat in de tabel per overgang naar een volgende versie omschreven waarom deze nieuwe versie er is. Daarnaast vind je informatie over de backwards compatibility van de versies. 
+
+Volledige omschrijvingen van de wijzigingen worden bijgehouden in het veranderingslogboek.
+
+
+[options="header",cols="1,2,2,3"]
+|===
+|versie|Begin datum|Einddatum|Belangrijkste wijziging(en)
+| 1.2.2 | 01-11-2024 | huidige standaard | Diverse verduidelijkingen toegevoegd na feedback van gebruikers en kleine bug fixes.
+| 1.2.1 |01-07-2024 | 01-11-2024 | Diverse verduidelijkingen toegevoegd na feedback van gebruikers 
+| 1.2.0 |16-05-2024 | 01-07-2024 | Diverse verduidelijkingen toegevoegd na feedback van gebruikers
+| 1.1.0 |22-04-2024 |15-05-2024 | Uitbreiding van de standaard met informatiebeveiliging en privacy
+| 1.0.1 |02-04-2024 | 21-04-2024 | Eerste publicatie van de standaard
+|===
+
+

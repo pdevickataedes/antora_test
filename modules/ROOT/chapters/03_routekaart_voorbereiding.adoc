@@ -1,0 +1,77 @@
+:toc: left
+:toclevels: 6
+
+=== Voorbereiding
+In dit deel ga je de organisatie voorbereiden op de implementatie van de digitale inkomensverklaring. Voor de voorbereiding bieden we adviezen over de volgende onderdelen:
+
+==== De implementatieroute
+De situatie van jouw organisatie is bepalend voor de route die je volgt bij het implementeren van de digitale inkomensverklaring. Gebruik de beslisboom om te achterhalen welke route voor jou van toepassing is.
+
+In de praktijk komen er verschillende samenwerkingsvarianten tussen corporaties voor bij het woonruimteverdeelproces. Dit kan leiden tot verschillende rollen en bijbehorende acties in de uitrol van de digitale inkomensverklaring. De onderstaande beslisboom helpt om te bepalen welke acties uitgevoerd moeten worden en door wie.
+
+image:Routekaart_BeslisboomV1.drawio.png[Beslisboom]
+
+====
+**Samenwerken voor de woonruimteverdeling*
+
+Veel woningcorporaties werken samen in het proces van het toewijzen van sociale huurwoningen. Zij werken dan samen voor (een deel van de) taken met betrekking tot het registreren van de inschrijving en de inschrijvingsduur van woningzoekenden, het tonen van het woningaanbod van de deelnemende woningcorporaties en het contact met woningzoekenden tijdens een groot deel van het proces, tot aan het moment dat de woningzoekende op een woning reageert. Als er sprake is van samenwerking voor de woonruimteverdeling, moeten de samenwerkende corporaties ook samen de digitale procedure in gebruik gaan nemen. Hoe je dit precies doet, is afhankelijk van de implementatieroute.
+====
+
+====
+***Woonruimteverdeler conform de woningwet?*
+
+Om te bepalen of de eventuele samenwerking een woonruimteverdeler is zoals bedoeld in de Woningwet artikel 1 kun je de volgende praktische toets gebruiken
+
+*Let op*: de softwareleverancier of dienstenleverancier is nooit een woonruimteverdeler zoals de wet dit bedoelt
+
+Is het samenwerkingsverband een rechtspersoon waarmee de toegelaten instelling een verbinding heeft zoals bedoeld in artikel 21 eerste lid Woningwet?
+
+* Nee → Het samenwerkingsverband is geen woonruimteverdeler zoals de wet dit bedoelt.
+
+* Ja → volgende vraag
+
+Is het samenwerkingsverband een naamloze vennootschap (NV)?
+
+* Ja → Het samenwerkingsverband is geen woonruimteverdeler zoals de wet dit bedoelt.
+
+* Nee → volgende vraag
+
+Is het samenwerkingsverband een besloten vennootschap (BV) met beperkte aansprakelijkheid?
+
+* Ja → Het samenwerkingsverband is geen woonruimteverdeler zoals de wet dit bedoelt.  
+
+* Nee → volgende vraag
+
+
+:fn-footnote_details: footnote:[Veel woningcorporaties werken in het proces van toewijzen van sociale huurwoningen met woonruimteverdelers. Deze partijen verrichten voor de woningcorporatie (of: voor meerdere woningcorporaties in de regio) werkzaamheden voor de woningcorporatie ten behoeve van het registreren van de inschrijving en de inschrijvingsduur van woningzoekenden, het tonen van het woningaanbod van de deelnemende woningcorporaties, en het contact met woningzoekenden tijdens een groot deel van het proces, tot aan het moment dat woningzoekende op een woning reageert. Er zijn ook woningcorporaties die niet werken met een woonruimteverdeler, en die al deze taken zelf uitvoeren.]
+
+Verricht het samenwerkingsverband voor de toegelaten instellingen werkzaamheden ten behoeve van het registreren van inschrijvingen en het verdelen van woongelegenheden{fn-footnote_details}?
+
+* Ja → *Het samenwerkingsverband is een woonruimteverdeler zoals de wet dit bedoelt.*  
+
+* Nee → Het samenwerkingsverband is geen woonruimteverdeler zoals de wet dit bedoelt.
+====
+
+===== Verantwoordelijkheden per route
+Nu je weet welke route op jouw organisatie van toepassing is, lees je hieronder welke verantwoordelijkheden daaraan verbonden zijn. In andere stappen van de uitrol zal waar nodig onderscheid gemaakt worden tussen de drie routes A, B en C. Dit zal dan altijd expliciet aangegeven worden.
+
+De op jouw organisatie van toepassing zijnde route is…
+
+* *Route A (zelfstandige corporatie)*: De organisatie is een woningcorporatie die zelfstandig de woonruimteverdeling uitvoert. Lees meer over de rolverdeling en verantwoordelijkheden.
+
+* *Route B (woonruimteverdeler)*: De organisatie is een woonruimteverdeler conform de woningwet. Lees meer over de rolverdeling en verantwoordelijkheden.
+
+* *Route C (samenwerkingsverband)*: De organisatie is een samenwerkingsverband van woningcorporaties die samenwerken voor woonruimteverdeling, maar geen woonruimteverdeler conform de woningwet. Lees meer over de rolverdeling en verantwoordelijkheden.
+
+* *Overig*: De organisatie kan geen gebruik maken van de digitale procedure.
+
+
+
+
+==== Advies projectteam
+==== Softwareleverancier
+
+
+
+
+Wanneer je aan de slag gaat met de voorbereiding (deel 1) van de DIV-it implementatie vul dan dit formulier in. Je helpt ons (team DIV-it) hier ontzettend mee, dan kunnen we namelijk goed inschatten welke ondersteuning nodig is.

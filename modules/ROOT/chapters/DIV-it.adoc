@@ -1,0 +1,34 @@
+include::config.adoc[]
+
+:sectnums:
+:sectnumlevels: 6
+ 
+:lang: nl
+
+:jbake-menu: -
+
+= image:DIV-it-logo.png[]Standaard voor digitale inkomensverklaring
+:author: Aedes Datastandaarden
+:revnumber: x.y.z
+:revdate: maart 2025
+
+// numbering from here on
+:numbered:
+
+<<<<
+// 1. Ondersteuning door Aedes
+include::01_Ondersteuning_door_Aedes.adoc[]
+
+<<<<
+// 2. Waarom is dit voor mij?
+include::02_waarom_is_dit_voor_mij.adoc[]
+
+<<<<
+// 3. Routekaart
+include::03_routekaart.adoc[]
+
+
+
+
+
+

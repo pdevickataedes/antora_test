@@ -1,0 +1,40 @@
+:jbake-title: Routekaart
+:jbake-type: page_toc
+:jbake-status: published
+:jbake-menu: Routekaart
+:jbake-order: 2
+:filename: \chapters\03_routekaart.adoc
+ifndef::imagesdir[:imagesdir: ../../images]
+
+:toc: left
+:toclevels: 6
+
+
+[[section-context-and-scope]]
+== Routekaart
+Op de routekaart staan alle belangrijke stappen die jouw organisatie zal nemen om de digitale inkomensverklaring te implementeren.
+
+De implementatie bestaat uit een aantal delen:
+
+. Voorbereiding: Alle stappen die je neemt om je voor te bereiden op de implementatie.
+
+. Het nieuwe proces toepassen: Alle stappen om het nieuwe proces toe te passen.
+
+. Aanmelden bij BZK: Om toegewezen te worden als gebruiker van de digitale inkomensverklaring.
+
+. Aanmelden bij Logius en RvIG: Bij Logius om gebruik te maken van de koppeling “Delen van Mijn Gegevens” en bij de RvIG om gebruik te maken van de Beheervoorziening BSN (BV BSN).
+
+. Livegang, gebruik en beheer: Wanneer ben je klaar voor livegang? En wat volgt daarna?
+
+Daarnaast zijn er een aantal “check-in”-momenten, wanneer het DIV-it-team graag via een formulier van je hoort hoe ver je bent met de implementatie van de digitale inkomensverklaring. Je zal deze check-in momenten vanzelf tegenkomen.
+
+*De routekaart*
+image:Routekaart_V1.drawio.png[routekaart]
+
+<<<
+// Voorbereiding
+include::03_routekaart_voorbereiding.adoc[]
+
+<<<
+// Het nieuwe proces toepassen
+include::03_routekaart_toepassen.adoc[]

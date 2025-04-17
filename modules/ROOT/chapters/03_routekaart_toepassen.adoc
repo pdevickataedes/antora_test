@@ -1,0 +1,51 @@
+:toc: left
+:toclevels: 6
+
+=== Het nieuwe process toepassen
+Nu je goed voorbereid bent, kun je aan de slag met het toepassen van de digitale inkomensverklaring. Dit deel van de implementatie bestaat uit 4 onderdelen waar je gelijktijdig mee aan de slag kunt gaan.
+
+==== Het nieuwe proces
+Het proces voor het delen van de inkomensgegevens zal met de implementatie van de digitale inkomensverklaring wijzigen. Op deze pagina’s wordt de nieuwe digitale procedure omschreven.
+
+In DIV-it definiëren we vier processen. De processen zijn functioneel en op hoofdlijnen beschreven. Daarbij wordt ingegaan op de samenhang tussen de woningzoekende of medebewoner, het woonruimteverdeelsysteem, het verhuursysteem en de systemen van de overheid.
+
+* Delen van BSN woningzoekende bij nieuwe inschrijving
+* Delen van BSN woningzoekende bij bestaande inschrijving
+* Delen van BSN en inkomensgegevens woningzoekde bij toewijzing
+* Delen van BSN en inkomensgegevevens medebewoner bij toewijzing
+
+Ook hebben we drie onderwerpen nader uitgewerkt:
+
+* wat de woonruimteverdeler of corporatie moet doen in uitvalsituaties waarin de digitale procedure niet gebruikt kan worden;
+
+* het vragen van instemming met de digitale procedure;
+
+* het intrekken van instemming met de digitale procedure;
+
+* de relatie tussen de gegevens van MijnOverheid en de gegevens benodigd voor de inkomenstoets.
+
+===== Delen van BSN woningzoekende bij nieuwe inschrijving
+include::../chapters/03_y.adoc[]
+
+===== Delen van BSN woningzoekende bij bestaande inschrijving
+include::../chapters/03_x.adoc[]
+
+===== Delen van BSN woningzoekende bij bestaande inschrijving
+
+
+
+===== Delen van BSN en inkomensgegevens woningzoekde bij toewijzing
+
+
+
+===== Delen van BSN en inkomensgegevevens medebewoner bij toewijzing
+
+
+
+
+
+
+
+=== Afspraken met de accountant
+
+=== Informatiebeveiliging en Privacy
