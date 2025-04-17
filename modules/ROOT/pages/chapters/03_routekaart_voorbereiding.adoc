@@ -1,6 +1,3 @@
-:toc: left
-:toclevels: 6
-
 === Voorbereiding
 In dit deel ga je de organisatie voorbereiden op de implementatie van de digitale inkomensverklaring. Voor de voorbereiding bieden we adviezen over de volgende onderdelen:
 
@@ -9,7 +6,36 @@ De situatie van jouw organisatie is bepalend voor de route die je volgt bij het 
 
 In de praktijk komen er verschillende samenwerkingsvarianten tussen corporaties voor bij het woonruimteverdeelproces. Dit kan leiden tot verschillende rollen en bijbehorende acties in de uitrol van de digitale inkomensverklaring. De onderstaande beslisboom helpt om te bepalen welke acties uitgevoerd moeten worden en door wie.
 
-image:Routekaart_BeslisboomV1.drawio.png[Beslisboom]
+
+[mermaid, width=100%]
+....
+
+graph LR
+  A[Representeer je een woningcorporatie?] --> |Ja| B[Representeer je een corporatie die samenwerkt voor woonruimteverdeling?];
+  A --> |Nee| C[Representeer je een samenwerkingsverband van corporaties met woonruimteverdeling also doel?];
+
+  B --->|Nee| RouteA[Route A - zelfstandige corporatie];
+  B -->|Ja| D[Is dit samenwerkingsverband een woonruimteverdeler conform de wet?];
+
+  C -->|Ja| D;
+  C --->|Nee| GeenRoute[Het is niet mogelijk om DIV-it te gebruiken];
+
+  D -->|Ja| RouteB[Route B - woonruimtverdeler]
+  D -->|Nee| RouteC[Route C - samenwerkingsverband]
+
+  A:::Decision
+  B:::Decision
+  C:::Decision
+  D:::Decision
+  RouteA:::Route
+  RouteB:::Route
+  RouteC:::Route
+  GeenRoute:::GeenRoute
+  classDef Decision stroke-width:1px,  stroke:#374D7C, fill:#00A7E5 
+  classDef Route stroke-width:1px,  stroke:#374D7C, fill:#126AB2 
+  classDef GeenRoute stroke-width:1px,  stroke:#374D7C, fill:#99DCF5 
+
+....
 
 ====
 **Samenwerken voor de woonruimteverdeling*
