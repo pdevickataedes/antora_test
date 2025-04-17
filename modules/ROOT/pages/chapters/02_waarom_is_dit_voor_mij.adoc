@@ -1,13 +1,3 @@
-:jbake-title: Waarom is dit voor mij?
-:jbake-type: page_toc
-:jbake-status: published
-:jbake-menu: Waarom voor mij?
-:jbake-order: 3
-:filename: \chapters\02_waarom_is_dit_voor_mij.adoc
-ifndef::imagesdir[:imagesdir: ../../images]
-
-:toc: left
-:toclevels: 6
 
 
 [[section-architecture-constraints]]

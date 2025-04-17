@@ -1,14 +1,3 @@
-:jbake-title: Ondersteuning door Aedes
-:jbake-type: page_toc
-:jbake-status: published
-:jbake-menu: Ondersteuning
-:jbake-order: 4
-:filename: \chapters\01_ondersteuning_door_aedes.adoc
-ifndef::imagesdir[:imagesdir: ../../images]
-
-:toc: left
-:toclevels: 6
-
 == Ondersteuning door Aedes
 Welkom! We zijn ontzettend blij dat het vanaf nu mogelijk is om gebruik te maken van de digitale procedure voor het delen van gegevens voor de inschrijving en de inkomenstoets. Dit zal het aanleveren van gegevens voor de inkomenstoets sneller, makkelijker en betrouwbaarder maken. Voor jullie, maar ook voor woningzoekenden.
 

@@ -1,12 +1,3 @@
-:jbake-title: Routekaart delen BSN nieuwe aanvraag
-:jbake-type: page_toc
-:jbake-status: published
-:jbake-menu: Test?
-:jbake-order: 3
-:filename: \chapters\03_routekaart.adoc
-
-:toc: left
-:toclevels: 6
 
 [plantuml]
 ....
