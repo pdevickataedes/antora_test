@@ -1,5 +1,5 @@
 = Welcome to my part
-:navtitle: Welcome
+:navtitle: DIV-it
 
 <<<<
 // 1. Ondersteuning door Aedes
