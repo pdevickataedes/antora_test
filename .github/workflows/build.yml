@@ -21,10 +21,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job
-  build:
+  setup:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -38,6 +36,13 @@ jobs:
         run: npm i antora @antora/lunr-extension
       - name:  Instal mermaid extension
         run: npm i -D @sntke/antora-mermaid-extension
+    
+  # Build job
+  build:
+    needs: setup
+    runs-on: ubuntu-latest
+    steps:
+      
       - name: Generate Site
         run: npx antora antora-playbook.yml
       - name: Upload artifact
