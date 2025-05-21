@@ -39,6 +39,8 @@ jobs:
           node-version: '18'
       - name: Install Antora with the Antora Lunr Extension
         run: npm i antora @antora/lunr-extension
+      - name:  Instal mermaid extension
+        run: npm i -D @sntke/antora-mermaid-extension
       - name: Generate Site
         run: npx antora antora-playbook.yml
       - name: Upload artifact
